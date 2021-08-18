@@ -167,10 +167,10 @@ p {
 .container {
   width: 90vw;
   height: auto;
-  max-width: 730px;
+  max-width: 700px;
   background: var(--clr-white);
   margin: 0 auto;
-  margin-top: -130px;
+  margin-top: -200px;
   border-radius: var(--radius);
   position: relative;
   text-align: center;
